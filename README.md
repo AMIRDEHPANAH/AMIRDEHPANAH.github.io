@@ -23,13 +23,7 @@ I'm an M.Sc. Electronic Engineering student at Politecnico di Torino, specializi
 - Simulink
 - COMSOL Multiphysics
 - SPICE Simulation
-- System-level Modeling
 
-### Programming
-- C++
-- Embedded C
-- Python
-- Assembly Language
 
 ### Electronics & Lab
 - Analog Circuit Analysis
@@ -57,7 +51,6 @@ Specialization: Electronic micro and nanosystems
 
 ## 🌐 Languages
 
-- **Persian**: Native
 - **English**: Advanced (C1)
 - **Italian**: Basic (A2)
 
@@ -68,14 +61,6 @@ Specialization: Electronic micro and nanosystems
 - **LinkedIn**: [Amir Dehpanah](https://linkedin.com/in/amir-dehpanah)
 - **Location**: Turin, Italy
 
-## 💻 Website Features
-
-- Modern, minimal design
-- Fully responsive layout
-- Smooth animations and transitions
-- Fast loading performance
-- SEO optimized
-- Easy to customize
 
 ## 🚀 Getting Started
 
