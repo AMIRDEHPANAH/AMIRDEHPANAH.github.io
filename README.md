@@ -62,22 +62,6 @@ Specialization: Electronic micro and nanosystems
 - **Location**: Turin, Italy
 
 
-## 🚀 Getting Started
-
-This portfolio is built with:
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
-No build tools required - just open `index.html` in your browser!
-
-## 📝 Customization
-
-To update your portfolio:
-
-1. Edit `index.html` to modify content
-2. Edit `css/style.css` to change styling
-3. Edit `js/main.js` to add more interactivity
 
 ## 📄 License
 
